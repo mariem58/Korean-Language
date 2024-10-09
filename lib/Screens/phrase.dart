@@ -18,7 +18,7 @@ class Phases extends StatelessWidget {
         sound: 'sounds/phrase_sound/how_are_you_feeling.wav',
         koName: '기분이 어때요?',
         enName: 'How are you feeling?',
-        speak: 'Gi-bun-i eo-ttaeyo ?'
+        speak: 'Gi-bun-i eo-ttaeyo?'
     ),
     PhraseModel(
         sound: 'sounds/phrase_sound/i_love_anime.wav',
