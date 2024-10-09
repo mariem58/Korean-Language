@@ -12,7 +12,7 @@ class Phases extends StatelessWidget {
         sound: 'sounds/phrase_sound/are_you_coming.wav',
         koName: '오고 있나요?',
         enName: 'Are you coming?',
-        speak: 'O-go it-na-yo ?'
+        speak: 'O-go it-na-yo?'
     ),
     PhraseModel(
         sound: 'sounds/phrase_sound/how_are_you_feeling.wav',
